@@ -25,4 +25,4 @@ public class Points {
         System.out.println(points);
     }
 }
-
+//DONE
